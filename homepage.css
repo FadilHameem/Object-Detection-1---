@@ -1,0 +1,23 @@
+body{
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+h2{
+    color: red;
+    width: 50%;
+    height: 6%;
+    background-color: green;
+    text-align: center;
+    font-size : 25px;
+    font-family: 'Playfair Display', serif;
+    font-weight: bold;
+}
+
+.bottonhome{
+    background-color: darkred;
+    color:white;
+    width: 150px;
+    height: 50px;
+}

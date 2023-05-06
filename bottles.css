@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+#imgbottles{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px solid black;
+}
+.back{
+    margin-right: 1250px;
+    margin-top: -125px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-size: cover;
+    font-size: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+#imgbed{
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px solid black;
+}
+
+head{
+    font-size: 25px;
+    font-family: 'Playfair Display', serif;
+    background-color:lightblue;
+    border-radius : 20px;
+}
+.back{
+    margin-right: 1250px;
+    margin-top: -125px;
+}
